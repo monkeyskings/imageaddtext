@@ -1,0 +1,8 @@
+fontfile: "./font/chinese.ttf"
+fontsize: 20
+fontdgi: 100
+fontspace: 1
+fontcolor: "white"
+startx: 10
+starty: 10
+outputdir: "./output"
